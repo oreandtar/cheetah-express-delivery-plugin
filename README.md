@@ -1,1 +1,1 @@
-# cheetah-express-delivery-plugin
+# Cheetah Express Delivery plugin for WordPress [BETA]
